@@ -11,7 +11,7 @@ This repository contains a Eclipse project built with Maven. In order to use thi
 
 # Usage
 
-The file App.java analyzes the sentiment of a string inputed by user. Word-by-Word is analyzed against a series of previous reponses stored in the file "src/main/resource/file/reviews.txt" which scales the sentiment from -2 to 2. Considering -2 very bad/sab and 2 very good/happy. The reviews file can be updated or changed in order to give more accurate responses.
+The file App.java analyzes the sentiment of a string from an user's input. Word-by-Word is analyzed against a series of previous reponses stored in the file "src/main/resource/file/reviews.txt" which scales the sentiment from -2 to 2. Considering -2 very bad/sab and 2 very good/happy. The reviews file can be updated or changed in order to give more accurate responses.
 
 # Credits
 
