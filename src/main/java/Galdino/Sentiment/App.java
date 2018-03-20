@@ -1,3 +1,16 @@
+
+/*
+Sentiment Analyzer:  
+
+Scores the sentiment of a sentence inputed by the user, based on a training data contained in the file "reviews.txt"
+
+Important: The remaining files of this project are not being upload, but can be requested at your convinience.
+
+I look forward to speaking with you about his position, please do not hesitate to contact me for more information.
+
+*/
+
+
 package Galdino.Sentiment;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
